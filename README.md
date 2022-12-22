@@ -6,7 +6,7 @@ A simple application where try to do maintain best practices
 Ports used in the project:
 | Project| Port |
 |-------------- | -------------- |
-| **real-state-boilerplate** | 8000 |
+| **rzy-project** | 8000 |
 
 
 ### Project
@@ -16,9 +16,9 @@ To get started, make sure you have to clone this repository.
 1. Clone this project:
 
    ```sh
-   git clone https://github.com/saimunhossain/real-state-boilerplate.git
+   git clone git@github.com:saimuntalentpro/rzy-project.git
    ```
-2. Inside the folder `real-state-boilerplate` and run the next command:
+2. Inside the folder `rzy-project` and run the next command:
 
    ```sh
    composer update
